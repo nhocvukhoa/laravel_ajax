@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Storage;
 class EmployeeController extends Controller
 {
     public function index() {
-        return view('index');
+        return view('Employee.index');
     }
 
     //TODO: fetch Data
