@@ -102,7 +102,7 @@
                         <table class="table">
                             <tr>
                                 <th>ID</th>
-                                <th>Tên danh mục</th>
+                                <th>Tên danh mục nè mấy bạn yêu</th>
                                 <th>Tình trạng</th>
                                 <th>Action</th>
                             </tr>
